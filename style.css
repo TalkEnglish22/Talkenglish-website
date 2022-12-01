@@ -170,7 +170,7 @@ h3{
 
 /*----- Tools ------*/
 .Tools{
-    width: 80%;
+    width: 70%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
@@ -217,10 +217,10 @@ h3{
 
 /*-------Platforms-------*/
 .Platforms{
-    width: 80%;
+    width: 50%;
     margin: auto;
     text-align: center;
-    padding-top: 95px;
+    padding-top: 75px;
 
 }
 .Platform-col{
